@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="perguntas">
+        <item>Qual é a cor dos balões?</item>
+        <item>Qual é a cor dos corações?</item>
+        <item>Qual é a cor do passáro?</item>
+        <item>Qual é o número?</item>
+        <item>Qual é o número?</item>
+        <item>Qual é o número?</item>
+        <item>Qual é este objeto?</item>
+        <item>Qual é este objeto?</item>
+        <item>Qual é este objeto?</item>
+        <item>Que figura geométrica é esta?</item>
+        <item>Que figura geométrica é esta?</item>
+        <item>Que figura geométrica é esta?</item>
+        <!-- Adicione outras perguntas aqui -->
+    </array>
+
+    <array name="opcaoA">
+        <item>Roxo</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Doiz</item>
+        <item>Cinco</item>
+        <item>Cento e Vinte</item>
+        <item>Lápis</item>
+        <item>Kadeira</item>
+        <item>Caderno</item>
+        <item>Retângulo</item>
+        <item>Triângulo</item>
+        <item>Triângulo</item>
+        <!-- Adicione outras opções aqui -->
+    </array>
+
+    <array name="opcaoB">
+        <item>Verde</item>
+        <item>Verde</item>
+        <item>Laranja</item>
+        <item>Duzentos</item>
+        <item>Cincoenta</item>
+        <item>Vinte</item>
+        <item>Lapis</item>
+        <item>Cadeira</item>
+        <item>Lívro</item>
+        <item>Triângulo</item>
+        <item>Hexágono</item>
+        <item>Quadrado</item>
+        <!-- Adicione outras opções aqui -->
+    </array>
+
+    <array name="opcaoC">
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Rosa</item>
+        <item>Dois</item>
+        <item>Quarenta</item>
+        <item>Cento e Vinte e Um</item>
+        <item>Lápiz</item>
+        <item>Cádeira</item>
+        <item>Litro</item>
+        <item>Quadrado</item>
+        <item>Quadrado</item>
+        <item>Retângulo</item>
+        <!-- Adicione outras opções aqui -->
+    </array>
+
+    <array name="opcaoD">
+        <item>Amarelo</item>
+        <item>Amarelo</item>
+        <item>Azul</item>
+        <item>Doze</item>
+        <item>Cinquenta</item>
+        <item>Sento e Vinte</item>
+        <item>Lápes</item>
+        <item>Cadera</item>
+        <item>Livro</item>
+        <item>Círculo</item>
+        <item>Círculo</item>
+        <item>Círculo</item>
+        <!-- Adicione outras opções aqui -->
+    </array>
+
+    <array name="certa">
+        <item>b</item>
+        <item>a</item>
+        <item>d</item>
+        <item>c</item>
+        <item>d</item>
+        <item>a</item>
+        <item>a</item>
+        <item>b</item>
+        <item>d</item>
+        <item>b</item>
+        <item>b</item>
+        <item>c</item>
+        <!-- Adicione outras opções aqui -->
+    </array>
+
+</resources>

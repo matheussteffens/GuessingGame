@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="idImagens">
+        <item>@drawable/verde</item>
+        <item>@drawable/coracao</item>
+        <item>@drawable/azul</item>
+        <item>@drawable/dois</item>
+        <item>@drawable/cinquenta</item>
+        <item>@drawable/cento</item>
+        <item>@drawable/lapis</item>
+        <item>@drawable/cadeira</item>
+        <item>@drawable/livros</item>
+        <item>@drawable/triangulo</item>
+        <item>@drawable/hexagono</item>
+        <item>@drawable/retangulo</item>
+        <!-- Adicione outros IDs de imagens aqui -->
+    </array>
+</resources>

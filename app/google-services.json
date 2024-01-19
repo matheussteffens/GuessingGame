@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968035604947",
+    "firebase_url": "https://guessinggame-d7ce9-default-rtdb.firebaseio.com",
+    "project_id": "guessinggame-d7ce9",
+    "storage_bucket": "guessinggame-d7ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968035604947:android:857ca5235d70856b9bb726",
+        "android_client_info": {
+          "package_name": "com.example.guessinggame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968035604947-1438fp91bl1qnrjifsjupeoi65489sgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp9dzuT2Gu39QduhvCxrUKVPtj0GWchU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968035604947-1438fp91bl1qnrjifsjupeoi65489sgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
